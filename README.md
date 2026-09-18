@@ -97,12 +97,12 @@ O dashboard será utilizado para transformar os dados armazenados em informaçõ
 
 Também será possível comparar diferentes sessões. Exemplo:
 
-              TESTE 01     TESTE 02
-
-Velocidade      82 km/h      91 km/h
-Temp. máxima    72 °C        78 °C
-Temp. média     61 °C        65 °C
-Tensão mínima   11,8 V       11,5 V
+                             TESTE 01     TESTE 02 
+                             
+              Velocidade      82 km/h      91 km/h
+              Temp. máxima    72 °C        78 °C
+              Temp. média     61 °C        65 °C
+              Tensão mínima   11,8 V       11,5 V
 
 Além disso, poderão ser utilizados gráficos como:
 
