@@ -106,11 +106,11 @@ Também será possível comparar diferentes sessões. Exemplo:
 
 Além disso, poderão ser utilizados gráficos como:
 
-Velocidade × Tempo;
-Temperatura × Tempo;
-Tensão × Tempo;
-Aceleração × Tempo;
-Velocidade × Temperatura.
+- Velocidade × Tempo;
+- Temperatura × Tempo;
+- Tensão × Tempo;
+- Aceleração × Tempo;
+- Velocidade × Temperatura.
 
 
 
