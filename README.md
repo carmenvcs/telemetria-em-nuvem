@@ -75,4 +75,42 @@ Essa organização permitirá comparar diferentes sessões e identificar altera�
 
 Será utilizado principalmente no backend e na manipulação dos dados, na comunicação com a API e no processamento de dados.
 
-### 
+### FastAPI
+
+O FastAPI será utilizado para desenvolver a API responsável pela comunicação entre a interface e o banco de dados. A API receberá os dados enviados pelo usuário, validará as informações e realizará o armazenamento no banco de dados.
+
+### PostgreSQL
+
+O PostgreSQL será utilizado como banco de dados da aplicação. Ele será responsável por armazenar informações das sessões de teste, data e horário das medições, dados de velocidade, temperatura, tensão, aceleração, dentre outros quesitos que podem ser adicionados pelo usuário. 
+
+// carmen, pode mexer o que quiser com o que tu de fato fez, aqui eu so coloquei uma hipótese do que pode ser feito.
+
+### HTML, CSS e JS
+
+O frontend será responsável pela interação com o usuário. HTML é responsável pela estrutura das páginas e formulários. CSS é responsável pela organização visual e apresentação da aplicação. JavaScript é responsável por: enviar dados para a API, consultar informações, atualizar o dashboard, construir gráficos e realizar comparações.
+
+---
+
+### 📊 Dashboard
+
+O dashboard será utilizado para transformar os dados armazenados em informações visualmente úteis. O usuário poderá selecionar uma sessão de teste e visualizar informações como velocidade máxima, temperatura máxima e média, tensão mínima, aceleração, evolução dos parâmetros ao longo do tempo, etc. 
+
+Também será possível comparar diferentes sessões. Exemplo:
+
+              TESTE 01     TESTE 02
+
+Velocidade      82 km/h      91 km/h
+Temp. máxima    72 °C        78 °C
+Temp. média     61 °C        65 °C
+Tensão mínima   11,8 V       11,5 V
+
+Além disso, poderão ser utilizados gráficos como:
+
+Velocidade × Tempo;
+Temperatura × Tempo;
+Tensão × Tempo;
+Aceleração × Tempo;
+Velocidade × Temperatura.
+
+
+
